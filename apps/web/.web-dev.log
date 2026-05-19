@@ -1,0 +1,11 @@
+
+> web@0.1.0 dev D:\Buisness-Websites\sima-shinde\realtimeDocEditor\apps\web
+> next dev
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3001
+- Network:       http://10.98.95.133:3001
+- Environments: .env.local
+✓ Ready in 1015ms
+[?25h
+ ELIFECYCLE  Command failed with exit code 1.
